@@ -1,0 +1,34 @@
+# Build artifacts
+build/
+dist/
+dist-output/
+out/
+
+# IDE / compiler
+*.user
+.vs/
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+
+# Configuration / user data
+macros.ini
+macros.ini.bak
+macros.dat
+config/
+image/
+
+# Archive
+*.zip
+*.7z
+
+# Audit / local notes
+_audit/
+_km-build/
+
+# Misc
+*.log
+Thumbs.db
+.DS_Store
